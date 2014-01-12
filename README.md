@@ -17,7 +17,7 @@ Kushcoin is a clone of Litecoin.
  - RPC: 14631 
 
 Kushcoin commemorates the legalization of marijuana in Colorado while providing a means of exchange between growers, buyers, and sellers. 
-Due to federal laws, Colorado banks are not allowed to provide services to the businesses in the growing marijuana industry forcing buisnesses to deal mostly
+Due to federal laws, Colorado banks are not allowed to provide services to the businesses in the growing marijuana industry forcing businesses to deal mostly
 in cash. This has created a dangerous climate for participants in the industry. 
 
 Kushcoin can solve the cash problem and cut the banks out of the equation. 
